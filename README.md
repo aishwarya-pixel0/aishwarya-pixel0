@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hello there!🙋‍♀️ I'm Aishwarya
+![codeimg](https://static.vecteezy.com/system/resources/previews/051/971/567/non_2x/girl-staff-cartoon-character-typing-on-keyboard-working-with-computer-vector.jpg)
+* 🌱Currently pursuing Information Science and Engineering at Bangalore Institute of Technology.
+* 🤖Each day I embark on new learning adventures on web development and algorithms.
+* 💁‍♀️Passionate learner, exploring the world of science and technology.
+* ⚡**Fun Fact**: I think I'm *Funny*.
+
 
 <!--
 **aishwarya-pixel0/aishwarya-pixel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
