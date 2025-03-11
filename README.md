@@ -1,5 +1,8 @@
 # Hello there!🙋‍♀️ I'm Aishwarya
   <img align="right" alt="Coding" width="400" height="260" src="https://media.licdn.com/dms/image/v2/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1694701932900?e=2147483647&v=beta&t=EqhbMowinbzPF91BjJkkrlaPtfgghLq41G_igcEsnTU">
+  
+![Profile views](https://komarev.com/ghpvc/?username=aishwarya-pixel0)
+
 
 * 🌱Currently pursuing Information Science and Engineering at Bangalore Institute of Technology.
 * 💻I am learning Python, C and SQL
@@ -14,8 +17,14 @@
 
 ### I am currently working with:
 [![TechStack](https://skillicons.dev/icons?i=python,c,md,mysql,arduino,postman)](https://skillicons.dev)
+## Github Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishwarya-pixel0)
+## Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishwarya-pixel0&show_icons=true&count_private=true)
+![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aishwarya-pixel0)](https://git.io/streak-stats)
+
+
 
 
 
