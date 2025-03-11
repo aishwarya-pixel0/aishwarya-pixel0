@@ -18,7 +18,8 @@
 ### I am currently working with:
 [![TechStack](https://skillicons.dev/icons?i=python,c,md,mysql,arduino,postman)](https://skillicons.dev)
 ## Github Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishwarya-pixel0)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishwarya-pixel0)
+
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishwarya-pixel0&show_icons=true&count_private=true)
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
