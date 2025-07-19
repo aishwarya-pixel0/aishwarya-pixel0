@@ -7,12 +7,12 @@
   
   
 
-## 🌐Connect with me:
+## Connect with me:
 [![](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tech-aishwarya)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishwaryasreepathy@gmail.com)
 <a href="https://dev.to/aishwarya_sreepathy"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpZUeHRPDa-zsWLRTzn2gu3zalVLsfBQS5vA&s" width="60" height="30">
 
-## Languages and tools I know : <img align="left" width="25" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" />
+## Languages and tools I know : 
 [![TechStack](https://skillicons.dev/icons?i=python,md,mysql,arduino,figma,github,vscode,pycharm)](https://skillicons.dev)
 ## Github Streak
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishwarya-pixel0)
