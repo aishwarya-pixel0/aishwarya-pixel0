@@ -14,8 +14,6 @@
 
 ## Languages and tools I know : 
 [![TechStack](https://skillicons.dev/icons?i=python,md,mysql,arduino,figma,github,vscode,pycharm)](https://skillicons.dev)
-## Github Streak
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishwarya-pixel0)
 
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishwarya-pixel0&show_icons=true&count_private=true)
