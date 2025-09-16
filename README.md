@@ -1,7 +1,7 @@
 # Hello there!👋 I'm Aishwarya
 <img align="right" width=120px height=109px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-* First year undergrad at BIT, with a passion for exploring and mastering technologies. I'm committed to continuous learning and driven by a desire to empower those around me!
+* Second year undergrad at BIT, with a passion for exploring and mastering technologies. I'm committed to continuous learning and driven by a desire to empower those around me!
 * Currently learning Data Structures and Algorithms and Web development.
 * Looking forward to explore Generative AI, ML and Neural Networks.
   
