@@ -13,7 +13,7 @@
 <a href="https://dev.to/aishwarya_sreepathy"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpZUeHRPDa-zsWLRTzn2gu3zalVLsfBQS5vA&s" width="60" height="30">
 
 ## Languages and tools I know : 
-[![TechStack](https://skillicons.dev/icons?i=python,md,mysql,arduino,figma,github,vscode,pycharm)](https://skillicons.dev)
+[![TechStack](https://skillicons.dev/icons?i=python,html,css,javascript,md,mysql,arduino,figma,github,vscode,pycharm)](https://skillicons.dev)
 
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishwarya-pixel0&show_icons=true&count_private=true)
